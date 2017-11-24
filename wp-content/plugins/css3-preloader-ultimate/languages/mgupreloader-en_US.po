@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate WooCommerce Brands plugin\n"
+"POT-Creation-Date: 2015-08-25 15:11+0200\n"
+"PO-Revision-Date: 2015-08-25 15:11+0200\n"
+"Last-Translator: dedalx <dedalx.rus@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: mgupreloader-admin.php:55
+msgid "Ultimate Preloader"
+msgstr ""
+
+#: mgupreloader-admin.php:120
+msgid "Settings saved."
+msgstr ""
+
+#: mgupreloader-admin.php:122
+msgid ""
+"Preview updated. <a class='settings-form-submit-save'>Save new settings</a> "
+"or <a href=''>revert back</a>?"
+msgstr ""
+
+#: mgupreloader-admin.php:127
+msgid "Settings are not saved."
+msgstr ""
+
+#: mgupreloader-admin.php:142 mgupreloader.php:121
+msgid "Loading..."
+msgstr ""
+
+#: mgupreloader-admin.php:150
+msgid "Ultimate WordPress Preloader"
+msgstr ""
+
+#: mgupreloader-admin.php:160
+msgid "Notice:"
+msgstr ""
+
+#: mgupreloader-admin.php:160
+msgid ""
+"The plugin's settings have been changed. In order to save them please don't "
+"forget to click the 'Save Changes' button."
+msgstr ""
+
+#: mgupreloader-admin.php:163
+msgid "General Settings"
+msgstr ""
+
+#: mgupreloader-admin.php:168
+msgid "Enable Preloader"
+msgstr ""
+
+#: mgupreloader-admin.php:177
+msgid "Enable preloader on your site."
+msgstr ""
+
+#: mgupreloader-admin.php:181
+msgid "Preloader style"
+msgstr ""
+
+#: mgupreloader-admin.php:197
+msgid "Select from table"
+msgstr ""
+
+#: mgupreloader-admin.php:198
+msgid ""
+"Click <a class='settings-form-submit-nosave'>Update preview</a> after you "
+"changed style here."
+msgstr ""
+
+#: mgupreloader-admin.php:202
+msgid "Preloader size"
+msgstr ""
+
+#: mgupreloader-admin.php:220
+msgid "Preloader color"
+msgstr ""
+
+#: mgupreloader-admin.php:227
+msgid "Preloader background color"
+msgstr ""
+
+#: mgupreloader-admin.php:235
+msgid "Use image instead of CSS3 animated preloader"
+msgstr ""
+
+#: mgupreloader-admin.php:244
+msgid "Replace preloader with your image."
+msgstr ""
+
+#: mgupreloader-admin.php:248
+msgid "Preloader image url"
+msgstr ""
+
+#: mgupreloader-admin.php:251
+msgid ""
+"Full path to image that will be used in preloader instead of CSS3 animation."
+msgstr ""
+
+#: mgupreloader-admin.php:257 mgupreloader-admin.php:266
+msgid "Save Changes"
+msgstr ""
+
+#: mgupreloader-admin.php:265
+msgid "Preloader preview"
+msgstr ""
+
+#: mgupreloader-admin.php:266
+msgid "Update preview"
+msgstr ""
+
+#: mgupreloader-admin.php:278
+msgid "Preloader styles table"
+msgstr ""
+
+#: mgupreloader-admin.php:279
+msgid "Click style that you like to select it in settings."
+msgstr ""
+
+#: mgupreloader-admin.php:289
+msgid "Back to settings"
+msgstr ""
+
+#: mgupreloader.php:142
+msgid "Settings"
+msgstr ""
+
+#: mgupreloader.php:151
+msgid "Visit Premium Customer Support Ticket System"
+msgstr ""
+
+#: mgupreloader.php:151
+msgid "Premium Support"
+msgstr ""
+
+#: mgupreloader.php:152
+msgid "Premium WordPress themes"
+msgstr ""

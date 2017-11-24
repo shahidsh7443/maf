@@ -1,0 +1,80 @@
+.preloader-preview-wrapper {
+	width: 100%;
+	border: 1px solid #eee;
+	height: 400px;
+	position: relative;
+	margin-top: 20px;
+	line-height: 0px;
+}
+.wp-picker-container + span {
+	top: -8px;
+	position: relative;
+}
+.mask-admin {
+	background-color: #FFFFFF;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    line-height: 0px;
+}
+.preloader-settings-column {
+	width: 50%;
+	float: left;
+}
+.preloader-preview-column {
+	width: 50%;
+	float: left;
+}
+.mgupreloader_info {
+	font-size: 11px;
+	color: #666;
+}
+.settings-form-submit-save {
+	cursor: pointer;
+}
+#mgtup_change_style {
+	width: 140px;
+}
+.settings-form-submit-nosave {
+	cursor: pointer;
+}
+.preview-style-wrapper {
+	width: 20%;
+	background: #ffffff;
+	border: 1px solid #eeeeee;
+	float: left;
+	text-align: center;
+	height: 120px;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	line-height: 0px;
+	cursor: pointer;
+}
+.preview-style-wrapper:hover {
+	border: 1px solid #1792CB;
+}
+.preview-style-wrapper span {
+	margin-top: 20px;
+	display: block;
+}
+.preview-style-wrapper div.preview-style-wrapper-inner {
+	display: table;
+	margin: 0 auto;
+	top: 40%;
+	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	position: relative;
+	line-height: 0px;
+}
+.color-picker {
+	cursor: pointer;
+}
+.clear {
+	clear: both;
+}
