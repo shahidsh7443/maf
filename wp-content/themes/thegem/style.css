@@ -2113,7 +2113,7 @@ body.admin-bar #page.vertical-header #site-header-wrapper {
 	white-space: nowrap;
 	display: inline-block;
 	font-size: 0;
-	margin: 0 -20px;
+	margin: 0 -60px;
 }
 #page.vertical-header #primary-menu.no-responsive {
 	margin: 0;
@@ -8981,7 +8981,7 @@ display: inline-block;
 
 }
 .menu-item-search, .menu-item-cart{
-visibility: hidden;}
+display: none !important;}
 .girl-dress #page-title, .women-dress #page-title, .hide_page_title #page-title {
 	display: none;
 }
@@ -9265,7 +9265,7 @@ font-family: Montserrat;
 .message2{
 font-size: 20px;
 line-height: 40px;
-color: #ed143d;
+color: white;
 }
 #page-title{
     background: url(../../../wp-content/uploads/2017/10/tunics-top-banner.jpg);
@@ -9282,11 +9282,10 @@ color: #ed143d;
 }
 
 .single-product .block-content{
-	background: url(../../../wp-content/uploads/2017/11/bg17.jpg);
+	background-color:#dfe5e8;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
-	box-shadow: inset 0 0 0 2027px rgba(187,47,11,.8);
 	/* padding: 0px; */
 	background-size: cover;
 
