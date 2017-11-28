@@ -71,6 +71,10 @@ button {
  {
 	 color:black;
  }
+ #Awards .vc_custom_1511793223734 .wpb_single_image img {
+    height: 325px !important;
+    width: 630px !important;
+}
 @media (max-width: 1199px) {
 	.row {
 		margin-top: -3em;
@@ -2113,7 +2117,7 @@ body.admin-bar #page.vertical-header #site-header-wrapper {
 	white-space: nowrap;
 	display: inline-block;
 	font-size: 0;
-	margin: 0 -60px;
+	margin: 0 -10px;
 }
 #page.vertical-header #primary-menu.no-responsive {
 	margin: 0;
@@ -9253,11 +9257,11 @@ font-family: Montserrat;
 
 }
 .our-products #page-title{
-	    background-size: cover !important;
+	    background-size: contain !important;
 }
 
 .message1{
-    color: #7fff00;
+    color: #e91f63;
 		margin-top: 0px !important;
 		font-size: 35px;
 		margin-bottom: 30px;
@@ -9420,7 +9424,7 @@ body.single-product #page-title{
 .single-product .product_title{
 	text-align: center;
 	padding-top: 30px;
-	color:#00ffff !important;
+	color:black !important;
 	text-align: center;
 padding-top: 30px;
 color: cyan;
