@@ -1738,6 +1738,26 @@ textarea {
 .top-area-items {
 	margin: 0 -35px;
 }
+#Awards .no-padding .vc_custom_1512130705068 h4
+{
+	margin-bottom: 5px !important;
+}
+#home_whatsnew .wpb_column  .wpb_wrapper .woocommerce .products .product-inner
+{
+ height:428px;
+}
+#main-content .block-content .panel  .panel-center .products-list .products .product-inner
+{
+	min-height:455px;
+}
+#main-content .block-content  .related-products  .products .product-inner
+{
+	min-height:432px;
+}
+#main-content .block-content  .related-products  .products .inline-column
+{
+	width: 25%;
+}
 @media (min-width: 1212px) {
 	.top-area-alignment-justified .top-area-menu {
 		float: right;
@@ -9257,8 +9277,10 @@ font-family: Montserrat;
 
 }
 .our-products #page-title{
-	    background-size: contain !important;
+	    background-size: cover !important;
+			box-shadow: inset 0 0 0 2027px rgba(0,0,0,.4);
 }
+custom.css?ver=4.8.2:792
 
 .message1{
     color: #e91f63;
@@ -9296,12 +9318,12 @@ color: white;
 }
 .our-products .block-content, .tax-product_cat .block-content{
 
-			background: url(../../../wp-content/uploads/2017/11/bg11.jpg);
+			/*background: url(../../../wp-content/uploads/2017/11/bg11.jpg);*/
 	    /* background-color: rgba(0,0,0,.4); */
 	    background-repeat: no-repeat;
 	    background-attachment: fixed;
 	    background-position: center;
-	    box-shadow: inset 0 0 0 2027px rgba(0,0,0,.4);
+	    background-color: #b6c6c942;
 	    /* padding: 0px; */
 	    background-size: cover;
 }
@@ -9384,7 +9406,7 @@ padding: 2rem;
 			padding-top: 200px !important;
 			height:300px;
 			background-position-y: -70px;
-
+box-shadow: inset 0 0 0 2027px rgba(0,0,0,.4);
 }
 .term-men-autumn-winter-16  #page-title,
 .term-men-spring-summer-16  #page-title,
@@ -9393,6 +9415,7 @@ padding: 2rem;
 			background-size: cover;
 			padding-top: 200px !important;
 			height:300px;
+			box-shadow: inset 0 0 0 2027px rgba(0,0,0,.4);
 }
 .term-woman-autumn-winter-16-womens_wear #page-title,
 .term-woman-tops #page-title,
@@ -9409,13 +9432,17 @@ padding: 2rem;
 			background-size: cover;
 			padding-top: 200px !important;
 			height:300px;
+			box-shadow: inset 0 0 0 2027px rgba(0,0,0,.4);
 }
 body.single-product #page-title{
 	display: none;
 
 }
 .single-product .product-inner .product-image-inner {
-    min-height: auto;
+    min-height: 300px;
+}
+.products .product-image-inner {
+    min-height: 300px;
 }
 .single-product .product-info.clearfix{
 	padding:0px !important;
