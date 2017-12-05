@@ -1503,6 +1503,8 @@ textarea {
 	vertical-align: middle;
 }
 /* Combobox */
+
+
 .combobox-wrapper,
 #page .select2-container .select2-selection--single {
 	position: relative;
